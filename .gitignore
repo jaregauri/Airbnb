@@ -1,0 +1,19 @@
+
+target/
+dbt_packages/
+logs/
+dbt_internal_packages/
+profiles.yml
+dbt_internal_packages/
+dbt_packages/
+target/
+logs/
+.user.yml
+
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# mac
+.DS_Store
